@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">My Application</string>
+
+   <string-array name="course_title" >
+       <item >This is title one</item>
+       <item >This is title 2</item>
+       <item >This is title 3</item>
+       <item >This is title 4</item>
+       <item >This is title 5</item>
+       <item >This is title 6</item>
+   </string-array>
+</resources>
